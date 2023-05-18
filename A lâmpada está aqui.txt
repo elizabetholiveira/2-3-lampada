@@ -1,0 +1,22 @@
+-Vista um avental com bolso frontal
+-Abra a porta do armário
+-Pegue a caixa com a lâmpada nova
+-Tire a lâmpada nova da caixa
+-Coloque a lâmpada nova no bolso do avental
+-Desligue o disjuntor
+-Pegue a escada dobrável
+-Abra a escada dobrável embaixo da lâmpada queimada
+-Suba na escada dobrável
+-Desenrosque a lâmpada queimada
+-Guarde a lâmpada queimada no bolso do avental
+-Pegue a lâmpada nova
+-Enrosque a lâmpada nova no bocal
+-Desça da escada dobrável
+-Feche a escada dobrável
+-Guarde a escada dobrável
+-Ligue o disjuntor
+-Acenda a lâmpada
+-Jogue a lâmpada queimada fora
+-Tire o avental
+-Guarde o avental
+
